@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ZacharyClarkForNY112.com" resolutions="1x" timestamp="1540271708811">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ZacharyClarkForNY112.com" resolutions="1x" timestamp="1540272240394">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4269943017" ref="contact:index:meet-zachary:issues"/>
@@ -43,12 +43,8 @@
   <folder name="images">
     <file name="pasted-svg-125733x31.svg" crc="4185129026" seo="true" ref="phone>index:phone>meet-zachary:phone>issues:phone>contact:index:meet-zachary:issues:contact">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="meet-zachary" alt=""/>
       <caption webpage="meet-zachary" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="issues" alt=""/>
       <caption webpage="issues" alt=""/>
     </file>
     <file name="pasted svg 125733x31_poster_.png" crc="4145776174" ref="phone>index"/>
@@ -64,15 +60,15 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="404784546" ref="phone>meet-zachary:phone>issues:phone>index:phone>contact"/>
-      <file name="meet-zachary.css" crc="4291619610" ref="phone>meet-zachary"/>
-      <file name="issues.css" crc="175141605" ref="phone>issues"/>
-      <file name="index.css" crc="368225203" ref="phone>index"/>
-      <file name="contact.css" crc="174306552" ref="phone>contact"/>
+      <file name="meet-zachary.css" crc="4276576904" ref="phone>meet-zachary"/>
+      <file name="issues.css" crc="1224405" ref="phone>issues"/>
+      <file name="index.css" crc="4197592682" ref="phone>index"/>
+      <file name="contact.css" crc="135554838" ref="phone>contact"/>
     </folder>
-    <file name="index.html" crc="4052212280" seo="true" mt="1540270260054" redirect="true"/>
-    <file name="meet-zachary.html" crc="3881570695" seo="true" mt="1540270815500" redirect="true"/>
-    <file name="issues.html" crc="77031326" seo="true" mt="1540271600874" redirect="true"/>
-    <file name="contact.html" crc="3884156462" seo="true" mt="1540271685787" redirect="true"/>
+    <file name="index.html" crc="211186665" seo="true" mt="1540272224601" redirect="true"/>
+    <file name="meet-zachary.html" crc="4162162587" seo="true" mt="1540272224601" redirect="true"/>
+    <file name="issues.html" crc="43112857" seo="true" mt="1540272224601" redirect="true"/>
+    <file name="contact.html" crc="4021401393" seo="true" mt="1540272224601" redirect="true"/>
   </folder>
   <file name="index.html" crc="3983261104" seo="true" mt="1540269320592" redirect="true"/>
   <file name="meet-zachary.html" crc="3951682352" seo="true" mt="1540269411243" redirect="true"/>
