@@ -2,9 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ZacharyClarkForNY112.com/index.html</loc>
-    <lastmod>2018-10-20</lastmod>
+    <lastmod>2018-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ZacharyClarkForNY112.com/phone/index.html"/>
     <image:image>
       <image:loc>http://ZacharyClarkForNY112.com/images/pasted-svg-125733x31.svg</image:loc>
     </image:image>
@@ -14,27 +15,30 @@
   </url>
   <url>
     <loc>http://ZacharyClarkForNY112.com/meet-zachary.html</loc>
-    <lastmod>2018-10-20</lastmod>
+    <lastmod>2018-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ZacharyClarkForNY112.com/phone/meet-zachary.html"/>
     <image:image>
       <image:loc>http://ZacharyClarkForNY112.com/images/pasted-svg-125733x31.svg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://ZacharyClarkForNY112.com/issues.html</loc>
-    <lastmod>2018-10-20</lastmod>
+    <lastmod>2018-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ZacharyClarkForNY112.com/phone/issues.html"/>
     <image:image>
       <image:loc>http://ZacharyClarkForNY112.com/images/pasted-svg-125733x31.svg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://ZacharyClarkForNY112.com/contact.html</loc>
-    <lastmod>2018-10-20</lastmod>
+    <lastmod>2018-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ZacharyClarkForNY112.com/phone/contact.html"/>
     <image:image>
       <image:loc>http://ZacharyClarkForNY112.com/images/pasted-svg-125733x31.svg</image:loc>
     </image:image>

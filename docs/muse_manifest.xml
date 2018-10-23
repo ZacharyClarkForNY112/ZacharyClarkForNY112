@@ -1,56 +1,81 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ZacharyClarkForNY112.com" resolutions="1x" timestamp="1540085952480">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ZacharyClarkForNY112.com" resolutions="1x" timestamp="1540271708811">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="317796824" ref="index:meet-zachary:issues:contact"/>
-    <file name="index.css" crc="72102013" ref="index"/>
-    <file name="meet-zachary.css" crc="104026756" ref="meet-zachary"/>
-    <file name="issues.css" crc="329154214" ref="issues"/>
-    <file name="contact.css" crc="219090989" ref="contact"/>
+    <file name="master_a-master.css" crc="4269943017" ref="contact:index:meet-zachary:issues"/>
+    <file name="contact.css" crc="141942099" ref="contact"/>
+    <file name="index.css" crc="145425367" ref="index"/>
+    <file name="meet-zachary.css" crc="3918538630" ref="meet-zachary"/>
+    <file name="issues.css" crc="405502012" ref="issues"/>
   </folder>
   <folder name="fonts">
-    <file name="roboto-v18-latin-regular.woff" crc="167792224"/>
-    <file name="roboto-v18-latin-regular.eot" crc="484434783"/>
-    <file name="roboto-v18-latin-regular.svg" crc="36319271"/>
-    <file name="roboto-condensed-v16-latin-regular.woff" crc="128584459"/>
-    <file name="roboto-condensed-v16-latin-regular.eot" crc="432443556"/>
-    <file name="roboto-condensed-v16-latin-regular.svg" crc="326511162"/>
     <file name="roboto-condensed-v16-latin-700.woff" crc="4107885490"/>
     <file name="roboto-condensed-v16-latin-700.eot" crc="4190487678"/>
     <file name="roboto-condensed-v16-latin-700.svg" crc="4014204969"/>
+    <file name="roboto-v18-latin-regular.woff" crc="167792224"/>
+    <file name="roboto-v18-latin-regular.eot" crc="484434783"/>
+    <file name="roboto-v18-latin-regular.svg" crc="36319271"/>
     <file name="roboto-v18-latin-700.woff" crc="4234937222"/>
     <file name="roboto-v18-latin-700.eot" crc="4058641325"/>
     <file name="roboto-v18-latin-700.svg" crc="4107661298"/>
+    <file name="roboto-condensed-v16-latin-regular.woff" crc="128584459"/>
+    <file name="roboto-condensed-v16-latin-regular.eot" crc="432443556"/>
+    <file name="roboto-condensed-v16-latin-regular.svg" crc="326511162"/>
+    <file name="socialico-webfont.woff" crc="3776824718"/>
+    <file name="socialico-webfont.eot" crc="3864535428"/>
+    <file name="socialico-webfont.svg" crc="221133457"/>
     <file name="roboto-condensed-v16-latin-italic.woff" crc="300535012"/>
     <file name="roboto-condensed-v16-latin-italic.eot" crc="3838135351"/>
     <file name="roboto-condensed-v16-latin-italic.svg" crc="3937987646"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:meet-zachary:issues:contact"/>
-    <file name="museutils.js" crc="340535759" ref="index:meet-zachary:issues:contact"/>
-    <file name="whatinput.js" crc="86476730" ref="index:meet-zachary:issues:contact"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:meet-zachary:issues:contact"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:meet-zachary:issues:contact"/>
-    <file name="require.js" crc="7928878" ref="index:meet-zachary:issues:contact"/>
-    <file name="webpro.js" crc="4059564322" ref="contact"/>
-    <file name="form_check.php" crc="3820983874" ref="contact"/>
-    <file name="form_process.php" crc="3776570906" ref="contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>meet-zachary:phone>issues:phone>contact:index:meet-zachary:issues:contact"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>meet-zachary:phone>issues:phone>contact:index:meet-zachary:issues:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>meet-zachary:phone>issues:phone>contact:index:meet-zachary:issues:contact"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>meet-zachary:phone>issues:phone>contact:index:meet-zachary:issues:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>meet-zachary:phone>issues:phone>contact:index:meet-zachary:issues:contact"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>meet-zachary:phone>issues:phone>contact:index:meet-zachary:issues:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>contact:contact"/>
+    <file name="form_check.php" crc="3820983874" ref="phone>contact"/>
+    <file name="form_process.php" crc="3776570906" ref="phone>contact"/>
+    <file name="form-u1366.php" crc="3868822093" ref="phone>contact"/>
     <file name="form-u712.php" crc="2429963" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="pasted-svg-125733x31.svg" crc="4185129026" seo="true" ref="index:meet-zachary:issues:contact">
+    <file name="pasted-svg-125733x31.svg" crc="4185129026" seo="true" ref="phone>index:phone>meet-zachary:phone>issues:phone>contact:index:meet-zachary:issues:contact">
       <caption webpage="index" alt=""/>
-      <caption webpage="issues" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="meet-zachary" alt=""/>
       <caption webpage="meet-zachary" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="issues" alt=""/>
+      <caption webpage="issues" alt=""/>
     </file>
-    <file name="pasted svg 125733x31_poster_.png" crc="4145776174" ref="index"/>
+    <file name="pasted svg 125733x31_poster_.png" crc="4145776174" ref="phone>index"/>
+    <file name="u1101-4.png" crc="529679732" ref="phone>index:phone>meet-zachary:phone>issues:phone>contact"/>
+    <file name="sample ballot380x186.jpg" crc="4164751174" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u493-4.png" crc="529679732" ref="index:meet-zachary:issues:contact"/>
     <file name="sample ballot.jpg" crc="520463614" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="165336698" seo="true" mt="1540073759533" redirect="true"/>
-  <file name="meet-zachary.html" crc="453617579" seo="true" mt="1540074139845" redirect="true"/>
-  <file name="issues.html" crc="3990431725" seo="true" mt="1540082313403" redirect="true"/>
-  <file name="contact.html" crc="282673822" seo="true" mt="1540085923157" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="404784546" ref="phone>meet-zachary:phone>issues:phone>index:phone>contact"/>
+      <file name="meet-zachary.css" crc="4291619610" ref="phone>meet-zachary"/>
+      <file name="issues.css" crc="175141605" ref="phone>issues"/>
+      <file name="index.css" crc="368225203" ref="phone>index"/>
+      <file name="contact.css" crc="174306552" ref="phone>contact"/>
+    </folder>
+    <file name="index.html" crc="4052212280" seo="true" mt="1540270260054" redirect="true"/>
+    <file name="meet-zachary.html" crc="3881570695" seo="true" mt="1540270815500" redirect="true"/>
+    <file name="issues.html" crc="77031326" seo="true" mt="1540271600874" redirect="true"/>
+    <file name="contact.html" crc="3884156462" seo="true" mt="1540271685787" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3983261104" seo="true" mt="1540269320592" redirect="true"/>
+  <file name="meet-zachary.html" crc="3951682352" seo="true" mt="1540269411243" redirect="true"/>
+  <file name="issues.html" crc="464894025" seo="true" mt="1540271134813" redirect="true"/>
+  <file name="contact.html" crc="271773602" seo="true" mt="1540269444197" redirect="true"/>
 </manifest>
