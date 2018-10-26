@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ZacharyClarkForNY112.com" resolutions="1x" timestamp="1540522590262">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ZacharyClarkForNY112.com" resolutions="1x" timestamp="1540523052355">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="30926797" ref="contact:index:meet-zachary:issues"/>
+    <file name="master_a-master.css" crc="4269943017" ref="contact:index:meet-zachary:issues"/>
     <file name="contact.css" crc="4201343287" ref="contact"/>
     <file name="index.css" crc="145425367" ref="index"/>
-    <file name="meet-zachary.css" crc="3894363348" ref="meet-zachary"/>
-    <file name="issues.css" crc="4235502140" ref="issues"/>
+    <file name="meet-zachary.css" crc="4007675752" ref="meet-zachary"/>
+    <file name="issues.css" crc="411870000" ref="issues"/>
   </folder>
   <folder name="fonts">
     <file name="roboto-condensed-v16-latin-700.woff" crc="4107885490"/>
@@ -39,19 +39,15 @@
   <folder name="images">
     <file name="pasted-svg-125733x31.svg" crc="4185129026" seo="true" ref="phone>index:phone>meet-zachary:phone>issues:phone>contact:index:meet-zachary:issues:contact">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="meet-zachary" alt=""/>
-      <caption webpage="meet-zachary" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="issues" alt=""/>
     </file>
-    <file name="pasted svg 125733x31_poster_.png" crc="4145776174" ref="phone>index:phone>contact:phone>meet-zachary:issues"/>
+    <file name="pasted svg 125733x31_poster_.png" crc="4145776174" ref="phone>index"/>
     <file name="u1101-4.png" crc="529679732" ref="phone>index:phone>meet-zachary:phone>issues:phone>contact"/>
-    <file name="sample ballot380x186.jpg" crc="4164751174" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u493-4.png" crc="529679732" ref="index:meet-zachary:issues:contact"/>
-    <file name="sample ballot.jpg" crc="520463614" seo="true" ref="index">
+    <file name="sample ballot.jpg" crc="59678370" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_20181023_155718-u1237-fr.jpg" crc="3799083101" ref="phone>meet-zachary"/>
@@ -90,22 +86,25 @@
     <file name="img_20181025_091158.jpg" crc="209671827" ref="issues">
       <caption webpage="issues" alt=""/>
     </file>
+    <file name="sample ballot570x278.jpg" crc="4283342465" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="404784546" ref="phone>meet-zachary:phone>issues:phone>index:phone>contact"/>
-      <file name="meet-zachary.css" crc="4142614922" ref="phone>meet-zachary"/>
+      <file name="meet-zachary.css" crc="249281464" ref="phone>meet-zachary"/>
       <file name="issues.css" crc="4047324002" ref="phone>issues"/>
-      <file name="index.css" crc="4197592682" ref="phone>index"/>
-      <file name="contact.css" crc="80085616" ref="phone>contact"/>
+      <file name="index.css" crc="3773944729" ref="phone>index"/>
+      <file name="contact.css" crc="3978005415" ref="phone>contact"/>
     </folder>
-    <file name="index.html" crc="211186665" seo="true" mt="1540272224601" redirect="true"/>
-    <file name="meet-zachary.html" crc="4113742030" seo="true" mt="1540522315382" redirect="true"/>
-    <file name="issues.html" crc="260645635" seo="true" mt="1540522316490" redirect="true"/>
-    <file name="contact.html" crc="75843088" seo="true" mt="1540273604637" redirect="true"/>
+    <file name="index.html" crc="4110104240" seo="true" mt="1540523035160" redirect="true"/>
+    <file name="meet-zachary.html" crc="4292526477" seo="true" mt="1540522962382" redirect="true"/>
+    <file name="issues.html" crc="385367396" seo="true" mt="1540522962382" redirect="true"/>
+    <file name="contact.html" crc="3991411701" seo="true" mt="1540522988731" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3983261104" seo="true" mt="1540269320592" redirect="true"/>
-  <file name="meet-zachary.html" crc="507936961" seo="true" mt="1540522315380" redirect="true"/>
-  <file name="issues.html" crc="372447273" seo="true" mt="1540522581874" redirect="true"/>
-  <file name="contact.html" crc="4195707159" seo="true" mt="1540273574910" redirect="true"/>
+  <file name="index.html" crc="3931031481" seo="true" mt="1540523028687" redirect="true"/>
+  <file name="meet-zachary.html" crc="253939394" seo="true" mt="1540523038150" redirect="true"/>
+  <file name="issues.html" crc="22210013" seo="true" mt="1540523040432" redirect="true"/>
+  <file name="contact.html" crc="375205998" seo="true" mt="1540523042921" redirect="true"/>
 </manifest>
